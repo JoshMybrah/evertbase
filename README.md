@@ -38,4 +38,5 @@ The application can be started in an IDE or in the command line using the follow
 `python manage.py`
 
 Open your browser and go to: http://127.0.0.1:5000/
+
 This may take a while. Keep refreshing the browser tab.
